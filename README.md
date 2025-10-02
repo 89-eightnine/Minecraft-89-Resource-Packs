@@ -10,6 +10,7 @@
 4. 让物品栏更加透明
 5. 给物品栏加上了数字
 6. 给书的界面加上了行数（包括书与笔、成书、讲台）
+7. mineceraft标题彩蛋提示
 
    *下载链接:* [[点击下载]](https://github.com/89-eightnine/Minecraft-89-Resource-Packs/raw/refs/heads/main/(v3)_Minecraft-89-Resource-Packs.zip)
 
