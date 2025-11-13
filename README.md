@@ -4,13 +4,19 @@
 **温馨提示：下载时可点进想要的版本的压缩包以下载，也可使用下方链接下载**
 
 ## [最新内容]
+### v5更新内容
+1. 修复了上个版本([v4](https://github.com/89-eightnine/Minecraft-89-Resource-Packs/raw/refs/heads/main/(v4)_Minecraft-89-Resource-Packs.zip))没有虫蚀深板岩显示的bug
+2. 新增了刷怪笼透视，可以更容易看清刷怪笼内部
+
+   *下载链接:* [[点击下载]](https://github.com/89-eightnine/Minecraft-89-Resource-Packs/raw/refs/heads/main/(v5)_Minecraft-89-Resource-Packs.zip)
+
+## 以下为旧版本内容：
 ### v4更新内容
 1. 修复了加载资源包时会提示“此资源包适用于高版本”的bug
 2. 蠹虫方块有红色边框显示
 
    *下载链接:* [[点击下载]](https://github.com/89-eightnine/Minecraft-89-Resource-Packs/raw/refs/heads/main/(v4)_Minecraft-89-Resource-Packs.zip)
 
-## 以下为旧版本内容：
 ### v3更新内容
 1. 给成熟的土豆加上了金色的描边
 2. 更清晰的水
