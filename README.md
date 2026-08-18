@@ -4,7 +4,7 @@
 **温馨提示：下载时可点进想要的版本的压缩包以下载，也可使用下方链接下载**
 ## [最新内容]
 ### v7.5更新内容
-1. 修复上个版本（[[v7]](https://github.com/89-eightnine/Minecraft-89-Resource-Packs/raw/refs/heads/main/(v7)_Minecraft-89-Resource-Packs.zip)）加载资源包时显“已损坏或不兼容”的bug
+1. 修复上个版本（[v7](https://github.com/89-eightnine/Minecraft-89-Resource-Packs/raw/refs/heads/main/(v7)_Minecraft-89-Resource-Packs.zip)）加载资源包时显“已损坏或不兼容”的bug
 2. 增加了烈性硫磺不同状态的显示纹理
 
    *下载链接:* [[点击下载]](https://github.com/89-eightnine/Minecraft-89-Resource-Packs/raw/refs/heads/main/(v7.5)_Minecraft-89-Resource-Packs.zip)
