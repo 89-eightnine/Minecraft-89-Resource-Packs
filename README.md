@@ -7,6 +7,8 @@
 1. 补全所有作物成熟金色描边（胡萝卜、甜菜根、小麦、下界疣、可可豆、甜浆果）
 2. 调整灰色、淡灰色、黑色染色方块（混凝土、羊毛、玻璃等）描边颜色，提升视觉舒适度。
 
+   *下载链接:* [[点击下载]](https://github.com/89-eightnine/Minecraft-89-Resource-Packs/raw/refs/heads/main/(v6)_Minecraft-89-Resource-Packs.zip)
+
 ## 以下为旧版本内容：
 ### v5更新内容
 1. 修复了上个版本([v4](https://github.com/89-eightnine/Minecraft-89-Resource-Packs/raw/refs/heads/main/(v4)_Minecraft-89-Resource-Packs.zip))没有虫蚀深板岩显示的bug
