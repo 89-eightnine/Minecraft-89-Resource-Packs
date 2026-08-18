@@ -3,13 +3,19 @@
 
 **温馨提示：下载时可点进想要的版本的压缩包以下载，也可使用下方链接下载**
 ## [最新内容]
+### v7.5更新内容
+1. 修复上个版本（[[v7]](https://github.com/89-eightnine/Minecraft-89-Resource-Packs/raw/refs/heads/main/(v7)_Minecraft-89-Resource-Packs.zip)）加载资源包时显“已损坏或不兼容”的bug
+2. 增加了烈性硫磺不同状态的显示纹理
+
+   *下载链接:* [[点击下载]](https://github.com/89-eightnine/Minecraft-89-Resource-Packs/raw/refs/heads/main/(v7.5)_Minecraft-89-Resource-Packs.zip)
+
+## 以下为旧版本内容：
 ### v7更新内容
 1. 修改资源包版本号为88，支持26.2版本。
 2. 添加了硫磺 (Sulfur) 及其所有变种、朱砂 (Cinnabar) 及其所有变种的描边材质
 
    *下载链接:* [[点击下载]](https://github.com/89-eightnine/Minecraft-89-Resource-Packs/raw/refs/heads/main/(v7)_Minecraft-89-Resource-Packs.zip)
 
-## 以下为旧版本内容：
 ### v6更新内容
 1. 补全所有作物成熟金色描边（胡萝卜、甜菜根、小麦、下界疣、可可豆、甜浆果）
 2. 调整灰色、淡灰色、黑色染色方块（混凝土、羊毛、玻璃等）描边颜色，提升视觉舒适度。
